@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\bin\Debug\net8.0\String_Hazir_Metotlar.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\bin\Debug\net8.0\String_Hazir_Metotlar.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\bin\Debug\net8.0\String_Hazir_Metotlar.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\bin\Debug\net8.0\String_Hazir_Metotlar.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\bin\Debug\net8.0\String_Hazir_Metotlar.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\obj\Debug\net8.0\String_Hazir_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\obj\Debug\net8.0\String_Hazir_Metotlar.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\obj\Debug\net8.0\String_Hazir_Metotlar.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\obj\Debug\net8.0\String_Hazir_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\obj\Debug\net8.0\String_Hazir_Metotlar.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\obj\Debug\net8.0\refint\String_Hazir_Metotlar.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\obj\Debug\net8.0\String_Hazir_Metotlar.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\obj\Debug\net8.0\String_Hazir_Metotlar.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\String_Hazir_Metotlar\obj\Debug\net8.0\ref\String_Hazir_Metotlar.dll
